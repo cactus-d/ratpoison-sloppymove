@@ -11,11 +11,21 @@ GNU General Public License
 
 ## Installation
 
-make
-
-make install
-
 ### Arch Linux
 
 Install from the AUR
+https://aur.archlinux.org/packages/ratpoison-sloppymove
 
+### Linux (Other)
+
+```
+make
+make install
+```
+
+## Use
+
+Add to your .ratpoisonrc file
+```
+ratpoison-sloppymove
+```

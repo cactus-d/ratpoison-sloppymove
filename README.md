@@ -12,6 +12,7 @@ GNU General Public License
 ## Installation
 
 make
+
 make install
 
 ### Arch Linux

@@ -4,12 +4,11 @@
  * Accepts a compromise between "rat" and "no rat" -- changes focus based on
  * rat movement but allows for keyboard-based focus changes too
  *
- * Original Sloppy Focus
- * Copyright (C) 2005 Shawn Betts <sabetts@vcn.bc.ca>
+ * Based on the original Sloppy Focus by Shawn Betts <sabetts@vcn.bc.ca>
  *
  * sloppymove is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation; either version 2, or (at your option)
+ * the Free Software Foundation; either version 3, or (at your option)
  * any later version.
  *
  * sloppymove is distributed in the hope that it will be useful,

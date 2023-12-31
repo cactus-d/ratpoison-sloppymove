@@ -9,5 +9,12 @@ Implements a compromise between "rat" and "no rat" -- changes focus based on rat
 Based on the original Sloppy Focus by Shawn Betts <sabetts@vcn.bc.ca>
 GNU General Public License
 
+## Installation
 
+make
+make install
+
+### Arch Linux
+
+Install from the AUR
 

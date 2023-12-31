@@ -27,5 +27,5 @@ make install
 
 Add to your .ratpoisonrc file
 ```
-ratpoison-sloppymove
+exec ratpoison-sloppymove
 ```

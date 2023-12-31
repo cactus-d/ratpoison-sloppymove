@@ -9,5 +9,5 @@ if pgrep -x "sloppymove-bin" > /dev/null
 then
 	kill `pgrep -x "sloppymove-bin"`
 fi
-sloppymove-bin &
+sloppymove-bin
 
